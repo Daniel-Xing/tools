@@ -1,5 +1,6 @@
 import os
 
+
 def run_command(cmd):
     """
     run cmd and return the result
